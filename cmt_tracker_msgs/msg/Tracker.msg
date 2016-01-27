@@ -5,3 +5,5 @@ std_msgs/Int32 inital_points
 std_msgs/Int32 active_points
 std_msgs/Bool quality_results
 std_msgs/String tracker_name
+std_msgs/String emotion
+std_msgs/Float64 emo_accuracy

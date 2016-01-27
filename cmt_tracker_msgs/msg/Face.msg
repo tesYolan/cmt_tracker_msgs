@@ -5,3 +5,4 @@ std_msgs/Bool quality
 std_msgs/Int32 id
 std_msgs/String name
 std_msgs/String emotion_states
+std_msgs/Float64 emo_accuracy
